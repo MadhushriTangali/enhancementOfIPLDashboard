@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.matchcard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f172a;
+  font-family: 'Bree Serif';
+  padding: 12px;
+  margin: 20px;
+  width: 200px;
+  border: 0px;
+  border-radius: 12px;
+}
+
+.matchcard-team {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.won-status {
+  color: #18ed66;
+  font-weight: bold;
+}
+
+.lost-status {
+  color: #e31a1a;
+  font-weight: bold;
+}
+
+.matchcard-image {
+  height: 50px;
+  width: 50px;
+}

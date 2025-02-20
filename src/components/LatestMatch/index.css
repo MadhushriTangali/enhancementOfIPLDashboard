@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.outer-container {
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+  margin: 10px;
+}
+
+.innings-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.team-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading-innings {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.para-innings {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.team-image {
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+}

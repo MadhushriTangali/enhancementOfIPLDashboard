@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.team-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.card-RCB {
+  background-image: linear-gradient(#a4261d, #1e293b);
+}
+
+.card-KKR {
+  background-image: linear-gradient(#a4261d, #5755a7);
+}
+
+.card-KXP {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+}
+
+.card-CSK {
+  background-image: linear-gradient(#d91c1f, #f7db00);
+}
+
+.card-RR {
+  background-image: linear-gradient(#da237b, #13418b);
+}
+
+.card-MI {
+  background-image: linear-gradient(#da237b, #f7db00);
+}
+
+.card-SH {
+  background-image: linear-gradient(#f26d22, #4f5db0);
+}
+
+.card-DC {
+  background-image: linear-gradient(#f26d22, #0f172a);
+}
+
+.team-match-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.teamMatch-ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 100%;
+}
+
+.team-banner{
+  width: 100%;
+}
