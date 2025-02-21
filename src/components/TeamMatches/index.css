@@ -53,6 +53,22 @@
   width: 100%;
 }
 
-.team-banner{
+.team-banner {
   width: 100%;
+}
+
+.back-button {
+  background-color: yellowgreen;
+  color: crimson;
+  font-size: 20px;
+  border: 0px;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.heading{
+  color: #ffffff;
+  font-family: "Bree Serif";
+  font-size: 34px;
+  font-weight: bold;
 }
